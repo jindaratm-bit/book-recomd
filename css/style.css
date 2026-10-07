@@ -1,0 +1,75 @@
+.header-bg {background-color: #870c1e;}
+
+body {
+    zoom: 1;
+}
+
+h1   {
+  font-family: "Great Vibes", cursive;
+  font-weight: 400;
+  
+  font-style: normal;
+}
+
+h2 {
+  font-family: "Gothic A1", sans-serif;
+  font-weight: 900;
+
+  font-style: normal;
+}
+
+h3 {
+  font-family: "Crimson Text", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h5{
+  font-family: "Crimson Text", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.link-color  {
+        color: #870c1e;
+        
+    }
+
+.hero-bg {background-color: #870c1e;}
+
+
+
+.sc1-bg {  background-color: #870c1e;}
+
+.red-bg { background-color: #870c1e;
+}
+
+.yellow-bg {background-color: #fff1b2;}
+
+.review-box {
+    background-color: #ffffff;
+    border-radius: 20px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.review-box:hover {
+    transform: scale(1.15);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+}
+
+.name-font {
+  font-family: "Great Vibes", cursive;
+  font-weight: 400;
+  font-size: 64px;
+  font-style: normal;
+  
+}
+
+.red-font {color: #870c1e;}
+
+.yellow-font {color: #fff1b2;}
+
+.tilt-box {
+    transform: rotate(-3deg);
+}
